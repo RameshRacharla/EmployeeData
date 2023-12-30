@@ -3,6 +3,7 @@
 ## Android Application Architecture:
 
 The Application follows the MVVM design pattern with SDK 34 and updated Gradle file
+The App contains an Employee List along with Details.
 
 ## Tools and libraries used in the project:
  
@@ -22,7 +23,7 @@ The Application follows the MVVM design pattern with SDK 34 and updated Gradle f
  * Backend Database/API (Retrofit Network Services) 
    
 ## Repository  Branches
- - Master Branch
+ - Main Branch
  
 ## Project Authors And  Developers
 - **Ramesh Racharla** 
